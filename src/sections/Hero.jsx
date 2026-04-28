@@ -104,7 +104,7 @@ const Hero = () => {
             {/* profile */}
             <div className='relative max-w-xl mx-auto' >
               <div className='relative rounded-3xl p-2'>
-                <img src='public/Nadeeshika.png' alt='Nadeeshika Gimhani' className='w-full max-w-[600px] ml-auto bg-gradient-to-t from-[#3870D0] via-30% via-blue-400/35 to-80% rounded-[60px]'/>
+                <img src='Nadeeshika.png' alt='Nadeeshika Gimhani' className='w-full max-w-[600px] ml-auto bg-gradient-to-t from-[#3870D0] via-30% via-blue-400/35 to-80% rounded-[60px]'/>
 
                 {/* Floating badge */}
                 <div className='absolute -bottom-4 -right-4 glass rounded-xl px-4 py-3 animate-float'>
